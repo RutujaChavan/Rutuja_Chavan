@@ -8,6 +8,7 @@ int main
   cout<<"Multiplication of two numbers: ";
   cin>>a,b;
   cout<<"result: ";
+  c=a*b;
   cin>>c;
   return 0;
 }
